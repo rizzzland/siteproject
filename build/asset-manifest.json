@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbc4ed4d.css",
-    "main.js": "/static/js/main.68842317.js",
+    "main.css": "/static/css/main.aa958bdd.css",
+    "main.js": "/static/js/main.8e297b98.js",
     "static/js/787.785a4c54.chunk.js": "/static/js/787.785a4c54.chunk.js",
     "static/media/header.JPG": "/static/media/header.44fc9296db94f959629e.JPG",
     "static/media/aboutus.jpg": "/static/media/aboutus.af5eafba7f1b75767616.jpg",
     "static/media/sad.jpg": "/static/media/sad.d004f43b5ed1e8286194.jpg",
+    "static/media/image6.jpg": "/static/media/image6.c4bb0b17ed35bc60a178.jpg",
+    "static/media/image2.jpg": "/static/media/image2.04f33cccb795970174ec.jpg",
     "static/media/contactbg.png": "/static/media/contactbg.7326188a4ef1d19f9833.png",
-    "static/media/image4.jpeg": "/static/media/image4.8bdc90c9329aaa71385e.jpeg",
-    "static/media/image3.jpeg": "/static/media/image3.7ea6a787c876c7e02b1a.jpeg",
+    "static/media/image5.jpg": "/static/media/image5.ee31d0781483b85dfac5.jpg",
+    "static/media/image4.jpg": "/static/media/image4.98d7ce6bd77f53fd9ea9.jpg",
+    "static/media/image3.jpg": "/static/media/image3.c935311f0fa7850d0bc7.jpg",
+    "static/media/image1.jpg": "/static/media/image1.75439e7dcdd3d7afc784.jpg",
     "static/media/logopro2.png": "/static/media/logopro2.8d6f6b17eef5fb497d02.png",
-    "static/media/image2.jpeg": "/static/media/image2.357512c4781a99c05320.jpeg",
-    "static/media/image1.jpeg": "/static/media/image1.b43f248527c3808b3d5f.jpeg",
     "index.html": "/index.html",
-    "main.cbc4ed4d.css.map": "/static/css/main.cbc4ed4d.css.map",
-    "main.68842317.js.map": "/static/js/main.68842317.js.map",
+    "main.aa958bdd.css.map": "/static/css/main.aa958bdd.css.map",
+    "main.8e297b98.js.map": "/static/js/main.8e297b98.js.map",
     "787.785a4c54.chunk.js.map": "/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbc4ed4d.css",
-    "static/js/main.68842317.js"
+    "static/css/main.aa958bdd.css",
+    "static/js/main.8e297b98.js"
   ]
 }
