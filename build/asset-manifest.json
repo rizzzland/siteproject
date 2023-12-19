@@ -1,26 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa958bdd.css",
-    "main.js": "/static/js/main.8e297b98.js",
+    "main.css": "/static/css/main.b292d6a0.css",
+    "main.js": "/static/js/main.24ccac3c.js",
     "static/js/787.785a4c54.chunk.js": "/static/js/787.785a4c54.chunk.js",
     "static/media/header.JPG": "/static/media/header.44fc9296db94f959629e.JPG",
     "static/media/aboutus.jpg": "/static/media/aboutus.af5eafba7f1b75767616.jpg",
     "static/media/sad.jpg": "/static/media/sad.d004f43b5ed1e8286194.jpg",
+    "static/media/1-2.JPG": "/static/media/1-2.e5dfcccd600e3c5b48cd.JPG",
+    "static/media/1-6.JPG": "/static/media/1-6.721f85230aca377dd951.JPG",
+    "static/media/1-7.JPG": "/static/media/1-7.d6fb3f7ba8fa77d676b0.JPG",
+    "static/media/1-3.JPG": "/static/media/1-3.838b0f91bb2a14d8f1f0.JPG",
+    "static/media/1-1.JPG": "/static/media/1-1.7525d2b54c51ac401bd5.JPG",
     "static/media/image6.jpg": "/static/media/image6.c4bb0b17ed35bc60a178.jpg",
     "static/media/image2.jpg": "/static/media/image2.04f33cccb795970174ec.jpg",
+    "static/media/1-4.JPG": "/static/media/1-4.48a3756be4e44a4ebf28.JPG",
     "static/media/contactbg.png": "/static/media/contactbg.7326188a4ef1d19f9833.png",
-    "static/media/image5.jpg": "/static/media/image5.ee31d0781483b85dfac5.jpg",
     "static/media/image4.jpg": "/static/media/image4.98d7ce6bd77f53fd9ea9.jpg",
-    "static/media/image3.jpg": "/static/media/image3.c935311f0fa7850d0bc7.jpg",
+    "static/media/проектирование.jpg": "/static/media/проектирование.eb86c7db19d1536b4913.jpg",
     "static/media/image1.jpg": "/static/media/image1.75439e7dcdd3d7afc784.jpg",
+    "static/media/image5n.jpg": "/static/media/image5n.e7a462e696bcb23a6816.jpg",
     "static/media/logopro2.png": "/static/media/logopro2.8d6f6b17eef5fb497d02.png",
+    "static/media/ithumbup.svg": "/static/media/ithumbup.2d892e638c5631220405be9ca9e51ee1.svg",
     "index.html": "/index.html",
-    "main.aa958bdd.css.map": "/static/css/main.aa958bdd.css.map",
-    "main.8e297b98.js.map": "/static/js/main.8e297b98.js.map",
+    "static/media/ibook.svg": "/static/media/ibook.712528c3377515c24bc088dc61db71db.svg",
+    "static/media/iwallet.svg": "/static/media/iwallet.07996cdbd11db6cdb0a78363c643b0a3.svg",
+    "static/media/ilock.svg": "/static/media/ilock.796e9d0d97f4f5a41e76048745d3e460.svg",
+    "main.b292d6a0.css.map": "/static/css/main.b292d6a0.css.map",
+    "main.24ccac3c.js.map": "/static/js/main.24ccac3c.js.map",
     "787.785a4c54.chunk.js.map": "/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa958bdd.css",
-    "static/js/main.8e297b98.js"
+    "static/css/main.b292d6a0.css",
+    "static/js/main.24ccac3c.js"
   ]
 }
