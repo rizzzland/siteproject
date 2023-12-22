@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c894816a.css",
-    "main.js": "/static/js/main.fd10be77.js",
+    "main.css": "/static/css/main.20e1fa5d.css",
+    "main.js": "/static/js/main.ab892159.js",
     "static/js/787.785a4c54.chunk.js": "/static/js/787.785a4c54.chunk.js",
     "static/media/header.JPG": "/static/media/header.44fc9296db94f959629e.JPG",
     "static/media/aboutus.jpg": "/static/media/aboutus.af5eafba7f1b75767616.jpg",
@@ -69,14 +69,17 @@
     "static/media/ithumbup.svg": "/static/media/ithumbup.2d892e638c5631220405be9ca9e51ee1.svg",
     "index.html": "/index.html",
     "static/media/ibook.svg": "/static/media/ibook.712528c3377515c24bc088dc61db71db.svg",
+    "static/media/xmark.svg": "/static/media/xmark.c1a55c8007326e1e35e34269ec3df653.svg",
     "static/media/iwallet.svg": "/static/media/iwallet.07996cdbd11db6cdb0a78363c643b0a3.svg",
+    "static/media/arrowright.svg": "/static/media/arrowright.e084759a3da4af2042624f3aba8d7013.svg",
+    "static/media/arrowleft.svg": "/static/media/arrowleft.4b508fff5bb8282f1eeb2806d6d7cb20.svg",
     "static/media/ilock.svg": "/static/media/ilock.796e9d0d97f4f5a41e76048745d3e460.svg",
-    "main.c894816a.css.map": "/static/css/main.c894816a.css.map",
-    "main.fd10be77.js.map": "/static/js/main.fd10be77.js.map",
+    "main.20e1fa5d.css.map": "/static/css/main.20e1fa5d.css.map",
+    "main.ab892159.js.map": "/static/js/main.ab892159.js.map",
     "787.785a4c54.chunk.js.map": "/static/js/787.785a4c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c894816a.css",
-    "static/js/main.fd10be77.js"
+    "static/css/main.20e1fa5d.css",
+    "static/js/main.ab892159.js"
   ]
 }
